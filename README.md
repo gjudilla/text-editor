@@ -11,7 +11,7 @@ Clone the repository and install the necessary dependencies by typing in "npm in
 ## Usage
 
 Interact with the deployed site here:
-<!-- Insert link -->
+https://text-editor-8e69.onrender.com 
 
 
 ## Credits
